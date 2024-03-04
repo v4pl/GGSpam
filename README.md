@@ -2,6 +2,8 @@
 Bookmark spam exploit for Goguardian
 Haven't test on differnet exploits yet.
 
+
+
 Requiaments:
 Bookmarks enabled
 A working Brain
