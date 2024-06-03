@@ -1,5 +1,5 @@
   # GGSpam
-Bookmark spam exploit for Goguardian
+Bookmark spam glitch for Goguardian
 Haven't test on differnet exploits yet.
 
 
